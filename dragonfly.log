@@ -1,0 +1,17 @@
+GameManager/WorldManager Tests:
+Frame time: 33
+
+Object inserted into WorldManager
+Object inserted into WorldManager
+Object inserted into WorldManager
+Object removed from WorldManager
+Object removed from WorldManager
+Object removed from WorldManager
+Object inserted into WorldManager
+Object inserted into WorldManager
+Object inserted into WorldManager
+After update call:
+Object removed from WorldManager
+After shutdown:
+Object removed from WorldManager
+Object removed from WorldManager
